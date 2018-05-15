@@ -1,0 +1,5 @@
+.mode csv
+.import tournaments.csv tournaments
+.import players.csv players
+.import characters.csv characters
+.exit
